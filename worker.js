@@ -11,7 +11,7 @@ const authConfig = {
   "refresh_token": "", // Get your from https://bdi-generator.hashhackers.com/
   "FolderID":"0AIVrGam-09vXUk9PVA",  // Folder ID to clone files
   "IndexURL":"https://shlok-dhakrey.tg-rss.workers.dev",  // Index URL For sharing Cloned Files 
-  "bot_token":"7047787553:AAEYFZ7dG9h_IoH2IhqQZjBv-f_H21WvDpE",  // Your token from @Botfather
+  "bot_token":"704778",  // Your token from @Botfather
   "Owner_Github_Link":"https://github.com/ShlokDhakrey",
   "Owner_Telegram_Username":"dhakreyy",
   "authorised_chat_id":"-1001948332733"
